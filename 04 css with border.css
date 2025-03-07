@@ -1,0 +1,39 @@
+h1 {
+color: darkblue;
+
+}
+
+#pera1 {
+
+    border-width: 10px;
+    border-style: double ;
+    border-color: blueviolet;
+
+}
+
+/* border short hand*/
+
+#pera2 {
+
+    border: 2px solid red ;
+
+}
+
+.paragraph {
+
+    margin-top: 10px;
+
+}
+
+#para3 {
+
+    border: 3px dashed darkgreen;
+
+}
+
+#pera4 {
+
+    border-width: 5px ;
+    border-style: solid dashed double dotted;
+    color: blueviolet;
+}
