@@ -1,0 +1,27 @@
+h1{
+color: red;
+
+}
+
+#para1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+font-style: normal;
+font-style: oblique;
+
+}
+#para2{
+
+font-variant: small-caps;
+
+}
+#para3{
+
+line-height: 60px;
+
+}
+#para4{
+
+font-stretch: extra-expanded;
+
+}
