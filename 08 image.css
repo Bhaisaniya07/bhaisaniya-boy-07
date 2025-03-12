@@ -1,0 +1,25 @@
+#img1{
+
+    border: 5px solid blue;
+}
+
+#img2{
+
+    border: 5px dotted ;
+
+}
+
+#img3{
+
+border: 5px double red;
+
+}
+
+#para1{
+
+    background-image: url(../html/image/hina.jpg);
+    color: blue;
+    border-style: dashed dotted solid double;
+    border-color: brown;
+    border-width: 10px;
+}
